@@ -27,3 +27,6 @@ background-color: slateblue;
 .balance{
     background-color: orange;
 }
+#transfer{
+    display: none;
+}
